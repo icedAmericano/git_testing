@@ -1,0 +1,1 @@
+This is Hal's first git project!
